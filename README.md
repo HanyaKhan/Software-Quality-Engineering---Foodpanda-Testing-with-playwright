@@ -20,8 +20,7 @@ The automated test cases in this project cover the following scenarios:
 ### Tools and Technologies
 
 * Playwright for browser automation
-* JavaScript or TypeScript for scripting
-* Node.js as the runtime environment
+* JavaScript for scripting
 
 ### Test Approach
 
